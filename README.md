@@ -21,6 +21,6 @@ To run the pathfinder run the astar/AStarPathfinder.py file
 ![Moves](resources/images/output.png)
 
 # YouTube
-https://www.youtube.com/watch?v=y6Tj5J12zWQ&feature=youtu.be
+https://www.youtube.com/watch?v=QgTYKOkXUFY&feature=youtu.be
 
 # ENJOY
